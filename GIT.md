@@ -10,3 +10,6 @@ git checkout <nama branch / nama hash>
 Undo Commit
 git revert
 git reset --hard <name hash / nama branch>
+
+Merge
+git merge
