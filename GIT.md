@@ -12,4 +12,5 @@ git revert
 git reset --hard <name hash / nama branch>
 
 Merge
-git merge
+git checkout master // Atau target branch
+git merge <nama sumber branch>
