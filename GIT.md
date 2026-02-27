@@ -16,3 +16,7 @@ git checkout master // Atau target branch
 git merge <nama sumber branch>
 
 Merge Conflict
+
+Pull Request
+
+Rebase
