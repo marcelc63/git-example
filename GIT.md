@@ -19,4 +19,19 @@ Merge Conflict
 
 Pull Request
 
+- Via Github Interface
+
 Rebase
+
+git checkout <source branch - branch yang ada kerjaannya>
+git rebase <target branch, biasanya master>
+
+-- resolve conflict satu2 bila ada
+-- kalau gagal bisa: git rebase --abort untuk mengulangi
+
+lalu
+git checkout <target branch, biasanya master>
+git merge <source branch - branch yang ada kerjaannya dan sudah di rebase>
+
+atau
+click merge di pull request Github punya interface
