@@ -35,3 +35,6 @@ git merge <source branch - branch yang ada kerjaannya dan sudah di rebase>
 
 atau
 click merge di pull request Github punya interface
+
+convention
+branch out -> commit often -> rebase and merge often -> abandon old branch
